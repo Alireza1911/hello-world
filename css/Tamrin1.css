@@ -1,0 +1,160 @@
+﻿html, body, div, span, applet, object, iframe,
+h1, h2, h3, h4, h5, h6, p, blockquote, pre,
+a, abbr, acronym, address, big, cite, code,
+del, dfn, em, img, ins, kbd, q, s, samp,
+small, strike, strong, sub, sup, tt, var,
+b, u, i, center,
+dl, dt, dd, ol, ul, li,
+fieldset, form, label, legend,
+table, caption, tbody, tfoot, thead, tr, th, td,
+article, aside, canvas, details, embed,
+figure, figcaption, footer, header, hgroup,
+menu, nav, output, ruby, section, summary,
+time, mark, audio, video {
+    margin: 0;
+    padding: 0;
+    border: 0;
+    font-size: 100%;
+    font: inherit;
+    vertical-align: baseline;
+}
+
+body {
+    direction: rtl;
+    background-image: url(../image/battern.png);
+}
+
+#sartitr1 {
+    background-image:url(../image/back-menu.png);
+    margin:auto;
+    width:1004px;
+    padding:10px;
+    border-radius:10px;
+    margin-top:20px;
+}
+.insartitr1{
+    display:inline;
+    margin:10px;
+}
+.link {
+    margin: auto;
+    width: 1024px;
+    margin-top: 20px;
+}
+a{
+    text-decoration:none;
+    color:#ffffff;
+}
+.foto {
+    width: 320px;
+    height: 350px;
+    color: #ffffff;
+    background-color: #0094ff;
+    border-radius: 10px;
+}
+#foto{
+    width:1024px;
+    height:350px;
+    margin:auto;
+    margin-top:20px;
+}
+h2 {font-family:Arial;
+    font-size: 1.7em;
+    border-bottom:solid 1px #ffffff;
+    padding-right:20px;
+    color:#4cff00;
+}
+#fotova {
+    float: right;
+}
+#fotora {
+    float: right;
+    margin-right: 30px;
+}
+#fotocha {
+    float: left;
+}
+div>p{
+    padding-right:20px;
+}
+#packamuz {
+    width: 1024px;
+    height: 500px;
+    margin: auto;
+    margin-top: 20px;
+}
+#akharin{
+    width:320px;
+    height:500px;
+    background-color:#d541c1;
+    border-radius:10px;
+    float:right;
+}
+.csharp {
+    font-size:1.1em;
+    line-height:1.8;
+}
+#webamuz {
+    width: 674px;
+    height: 500px;
+    float: left;
+    
+    
+}
+#tarahiweb {
+    height: 50px;
+    background-color: #ff0000;
+    border-top-left-radius: 10px;
+    border-top-right-radius: 10px;
+}
+#intarahiweb{
+    font-size:1.1em;
+    padding-top:10px;
+}
+#nevisande {
+    padding-right: 10px;
+    padding-top: 10px;
+    font-size: 1.1em;
+}
+#divnevisande {
+    height: 50px;
+    background-color: #ccc;
+}
+#nev1{
+    margin-left:50px;
+}
+#parag{
+    height:50px;
+    background-color:#ffffff;
+}
+#inparag{
+    padding-top:7px;
+}
+#link {
+    height: 50px;
+    background-color: #ffffff;
+    border-bottom-left-radius: 10px;
+    border-bottom-right-radius: 10px;
+}
+#link2 {
+    background-color: #00ffff;
+    margin-left: 20px;
+    padding: 7px;
+    float:left;
+}
+.webamuz2{
+    margin-top:20px;
+    margin-left:155px;
+}
+.footer {
+    color:#ffffff;
+    text-align:center;
+    background-image: url(../image/back-menu.png);
+    width: 1004px;
+    padding: 10px;
+    border-radius:10px;
+    float:right;
+    margin-right:155px;
+    margin-top:20px;
+    margin-bottom:20px;
+}
