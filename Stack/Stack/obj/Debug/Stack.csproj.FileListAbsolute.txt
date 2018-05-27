@@ -1,0 +1,6 @@
+F:\barbod c#\Stack\Stack\bin\Debug\Stack.exe.config
+F:\barbod c#\Stack\Stack\bin\Debug\Stack.exe
+F:\barbod c#\Stack\Stack\bin\Debug\Stack.pdb
+F:\barbod c#\Stack\Stack\obj\Debug\Stack.csprojResolveAssemblyReference.cache
+F:\barbod c#\Stack\Stack\obj\Debug\Stack.exe
+F:\barbod c#\Stack\Stack\obj\Debug\Stack.pdb
